@@ -12,7 +12,6 @@ def cercle():
 
 def carre():
     canvas.create_rectangle(100, 100, 30, 30, fill="red", outline="red")
-    
 
 def croix():
     canvas.create_line((150,160),(60,50), fill="yellow")
